@@ -3,7 +3,7 @@
 ## Instructies voor gebruik in PowerShell
 (er van uit gaande dat je al een SSH key geconfigureerd hebt op je PC)
 
-##Als je nog geen pip geinstalleerd hebt, doe eerst dit:
+## Als je nog geen pip geinstalleerd hebt, doe eerst dit:
 ```
 Download pip vanuit deze link:
 https://bootstrap.pypa.io/get-pip.py
