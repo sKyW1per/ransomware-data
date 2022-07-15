@@ -34,33 +34,6 @@ Installeer de vereiste python3 libraries:
 $ pip3 install -R requirements.txt
 ```
 
-
-## Hoe kun je bijdragen / dingen toevoegen aan dit project:
-
-```
-Stap 1
-Fork de repository naar je eigen github account
-
-Stap 2
-Voeg dingen toe of pas aan
-Graag uitkijken met bestaande code verwijderen of even in overleg doen, want dat zorgt vaak voor conflicten bij het mergen.
-
-Stap 3
-Doe een pull request in mijn repository, om jou code en documenten toe te voegen aan deze repository.
-Dit kan hier:
-https://github.com/sKyW1per/ransomware-data/pulls
-
-Stap 4
-Als je een pull request hebt gedaan dan krijg ik een melding, en kan ik de pull request accepteren of weigeren.
-
-
-Een aanvraag doen voor een wijziging kan ook:
-Ga naar 
-https://github.com/sKyW1per/ransomware-data/issues
-En vul iets in.
-Maar als het veel werk is dan garandeer ik niet dat ik het voor je uitvoer :)
-```
-
 ## Links naar documentatie van gebruikte Python Libraries
 ```
 Pandas:
