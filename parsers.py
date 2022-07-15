@@ -18,3 +18,15 @@ class Parser_1:
             dataset[id] = d
 
         return dataset
+
+class Parser_2:
+    def __init__(self):
+        pass
+
+    def dataset_2(self):
+        filename = "data/ransomware.json"
+        with open(filename) as json_file:
+            dataset = json.load(json_file)
+#        print(json.dumps(dataset))
+
+        return dataset
